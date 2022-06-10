@@ -81,7 +81,7 @@
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimrealm&show_icons=true&count_private=true&title_color=628FDB&text_color=38BBAB&icon_color=B086E1&hide_border=true&bg_color=EEE#gh-light-mode-only)
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimrealm&show_icons=true&count_private=true&title_color=628FDB&text_color=38BBAB&icon_color=B086E1&hide_border=true&bg_color=444#gh-dark-mode-only)
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=slimrealm&show_icons=true&count_private=true&title_color=628FDB&text_color=38BBAB&icon_color=B086E1&hide_border=true&bg_color=999#gh-dark-mode-only)
 
   <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true) -->
 
