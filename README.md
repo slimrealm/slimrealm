@@ -43,7 +43,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/slimrealm_dev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/slimrealm_dev#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/protonmail.svg)](mailto:sammiller85@protonmail.com)
+[![website](./img/protonmail-light.svg)](mailto:sammiller85@protonmail.com#gh-light-mode-only)
+[![website](./img/protonmail-dark.svg)](mailto:sammiller85@protonmail.com#gh-dark-mode-only)
 
 ---
 
