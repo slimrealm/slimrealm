@@ -19,6 +19,9 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sam-miller-info#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sam-miller-info#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/slimrealm-dev#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/slimrealm-dev-info#gh-dark-mode-only)
 
 ---
 
@@ -51,15 +54,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
