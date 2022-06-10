@@ -20,8 +20,8 @@
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/sam-miller-info#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/sam-miller-info#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/slimrealm-dev#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/slimrealm-dev-info#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/slimrealm_dev#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/slimrealm_dev#gh-dark-mode-only)
 
 ---
 
@@ -63,5 +63,5 @@
 </details>
 
 [website]: https://slimrealm.com
-[twitter]: https://twitter.com/slimrealm-dev
+[twitter]: https://twitter.com/slimrealm_dev
 [linkedin]: https://linkedin.com/in/sam-miller-info
