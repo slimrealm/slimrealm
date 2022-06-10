@@ -1,14 +1,14 @@
-### Hi there 👋
-
 # Hey there, I'm Sam 👋
 
 [![Website](https://img.shields.io/website?label=slimrealm.com&style=for-the-badge&url=https%3A%2F%2Fslimrealm.com)](https://slimrealm.com)
 
 ## I'm a Husband, Father, and Software Developer
 
-- 🌱 I’m currently learning the React ecosystem and app architecture
-- 🥅 2022 Goals: Become proficient in cloud development and at least conversant in Web3
+- 🌱 I’m currently learning about thorough testing of React apps
+- 🥅 2022 Goals: Become proficient in cloud development and dive into web3
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: I write songs and play piano & keyboard
+- 📫 How to reach me: sammiller85@protonmail.com
 
 ---
 
@@ -35,8 +35,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://slimrealm.com#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://slimrealm.com#gh-light-mode-only)
 
 <br />
 
@@ -61,18 +61,3 @@
 [website]: https://slimrealm.com
 [twitter]: https://twitter.com/slimrealm-dev
 [linkedin]: https://linkedin.com/in/sam-miller-info
-
-<!--
-**slimrealm/slimrealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
