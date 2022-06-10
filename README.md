@@ -25,7 +25,7 @@
 ## I'm a Husband, Father, and Software Developer
 
 - 🌱 I’m currently learning about thorough testing of React apps
-- 🥅 2022 Goals: Become proficient in cloud development and dive into web3
+- 🥅 2022 Goals: Become proficient in cloud development and start diving into web3
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I write music and play piano & keyboard
 - 📫 How to reach me: sammiller85@protonmail.com
@@ -42,6 +42,8 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/slimrealm_dev#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/slimrealm_dev#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/protonmail.svg)](mailto:sammiller85@protonmail.com)
 
 ---
 
