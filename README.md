@@ -24,7 +24,7 @@
 
 ## I'm a Husband, Father, and Software Developer
 
-- 🌱 I’m currently learning AWS, relational databases, app performance, cross-functional teamwork
+- 🌱 I’m currently learning AWS, relational databases, app performance, and cross-functional teamwork
 - 🥅 2023 Goals: Become comfortable in data discovery / manipulation / analysis, and become proficient in AWS cloud development
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Just obtained my AWS Certified Cloud Practitioner cert. in February 2023
