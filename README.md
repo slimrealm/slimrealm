@@ -24,10 +24,10 @@
 
 ## I'm a Husband, Father, and Software Developer
 
-- 🌱 I’m currently learning about thorough testing of React apps
-- 🥅 2022 Goals: Become proficient in cloud development and start diving into web3
+- 🌱 I’m currently learning AWS, relational databases, app performance, cross-functional teamwork
+- 🥅 2023 Goals: Become comfortable in data discovery / manipulation / analysis, and become proficient in AWS cloud development
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I write music and play piano & keyboard
+- ⚡ Fun fact: Just obtained my AWS Certified Cloud Practitioner cert. in February 2023
 - 📫 How to reach me: sammiller85@protonmail.com
 
 ---
