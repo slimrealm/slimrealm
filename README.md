@@ -1,4 +1,4 @@
-# Hey there, I'm Sam 👋
+# Hey, I'm Sam 👋
 
 ![Website](https://img.shields.io/website?style=plastic&up_color=31C653&up_message=live&url=https%3A%2F%2Fslimrealm.com)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
