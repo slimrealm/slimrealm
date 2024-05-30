@@ -22,12 +22,11 @@
 
 <!-- [![Website](https://img.shields.io/website?label=slimrealm.com&style=plastic&url=https%3A%2F%2Fslimrealm.com)](https://slimrealm.com) -->
 
-## I'm a Husband, Father, and Software Developer
+## Highly motivated software engineer with 5 years of professional experience, including involvement in all stages of SDLC, experienced in fullstack development, CI/CD, and helping maintain alignment between business objectives and development flow
 
-- 🌱 I’m currently learning AWS, relational databases, app performance, and cross-functional teamwork
-- 🥅 2023 Goals: Become comfortable in data discovery / manipulation / analysis, and become proficient in AWS cloud development
+- 🌱 I’m currently learning: Test-Driven Development for React+Redux apps, Development with AWS
+- 🥅 2024 Goal: Complette AWS Certified Developer - Associate certification
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Just obtained my AWS Certified Cloud Practitioner cert. in February 2023
 - 📫 How to reach me: sammiller85@protonmail.com
 
 ---
