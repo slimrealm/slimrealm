@@ -25,7 +25,7 @@
 ## I'm a highly motivated software engineer with 5 years of professional experience, including involvement in all stages of SDLC, experienced in fullstack development, CI/CD, and helping maintain alignment between business objectives and development flow.
 
 - 🌱 I’m currently learning: Test-Driven Development for React+Redux apps, Development with AWS
-- 🥅 2024 Goal: Complette AWS Certified Developer - Associate certification
+- 🥅 2024 Goal: Complete AWS Certified Developer - Associate certification
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: sammiller85@protonmail.com
 
