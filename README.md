@@ -22,7 +22,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=slimrealm.com&style=plastic&url=https%3A%2F%2Fslimrealm.com)](https://slimrealm.com) -->
 
-## I'm a highly motivated software engineer with 5 years of professional experience, including involvement in all stages of SDLC, experienced in fullstack development, CI/CD, and helping maintain alignment between business objectives and development flow.
+## I'm a highly motivated full stack software engineer with 5 years of professional development experience, including all stages of the SDLC, CI/CD pipeline building, cross-team coordination, and maintaining alignment between business objectives and development flow.
 
 - 🌱 I’m currently learning: AWS Development, Best practices for Test-Driven Development for React+Redux apps
 - 🥅 2024 Goal: Complete AWS Certified Developer - Associate certification
