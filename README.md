@@ -24,8 +24,6 @@
 
 ## I'm a highly motivated full stack software engineer with 5 years of professional development experience, including all stages of the SDLC, CI/CD pipeline building, cross-team coordination, and maintaining alignment between business objectives and development flow.
 
-- 🌱 I’m currently learning: AWS Development, Best practices for Test-Driven Development for React+Redux apps
-- 🥅 2024 Goal: Complete AWS Certified Developer - Associate certification
 - 😄 Pronouns: He / Him
 - 📫 How to reach me: sammiller85@protonmail.com
 
